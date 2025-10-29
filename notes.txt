@@ -3,5 +3,5 @@ My name is Shakhnazar
 I love Python!
 
 
-Summary section for main branch
+This is a summary section!
 SUMMARY
