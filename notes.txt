@@ -1,3 +1,7 @@
 My name is Shakhnazar
 
 I love Python!
+
+
+This is a summary section!
+SUMMARY
